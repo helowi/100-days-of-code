@@ -1,11 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 1: June 20th, 2018 (Example 1)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked on exercises on Free Code Camp for HTML5.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** At first it seemed simple because it were exercise I had already done, until I arrived to buttons, and actions to make checkboxes and radio(couldn't understand what radio was and had to search online to understand) I think I'm getting the hang of the radio and checkboxes. So far I have done 26 out of 1408 exercises on Free Code Camp
 
 **Link to work:** [Calculator App](http://www.example.com)
 
